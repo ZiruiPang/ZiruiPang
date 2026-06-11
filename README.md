@@ -2,7 +2,7 @@
 - 👀 I’m interested in TrustWorthy Machine Learning, LLM Unlearning
 - 🌱 I’m currently learning at University of Illinois Urbana-Champaign
 - 💞️ I’m looking to collaborate on TWML
-- 📫 How to reach me 📧ziruip2@illinois.edu
+- 📫 How to reach me 📧zpang112@connect.hkust-gz.edu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
